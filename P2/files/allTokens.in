@@ -1,0 +1,22 @@
+123
++
+THIS_IS_A_TEST
+int number = 3200000000; bool value = false;
+bool val = false;
+
+// THIS IS A COMMENT
+
+struct test {
+    int x;
+    bool yes;
+}
+
+"THIS IS A BAD STRING
+
+"THIS IS ALSO A \z BAD STRING"
+
+"BAD STRING \a ALSO
+
+<<
+
+>>

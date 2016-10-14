@@ -1,0 +1,1 @@
+"This is a bad escape char \z this string should not parse"
